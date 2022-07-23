@@ -1,0 +1,9 @@
+public class paramConstrDemo {
+public static void main(String[] args) {
+
+	Stdudent std1=new Student(2,"lakshmi");
+	Stdudent std2=new Student(10,"satya");
+	student1.display();
+	student2.display();
+		}
+}
